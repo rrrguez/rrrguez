@@ -2,4 +2,4 @@
 
 ## I am a software engineer currently pursuing a master's degree in web development :mortar_board:
 
-In my profile you can find mostly practises for my different subjects
+In my profile you will find mostly practises for my different subjects
