@@ -4,4 +4,4 @@
 
 In my profile you will find mostly practises for my different subjects
 
-My most standing out repository is [OlypmULL](https://github.com/Computational-Thinking/OlympULL), which was my Bachelor's Degree Final Project. Feel free to have a look at it!
+My most standing out project is [OlypmULL](https://github.com/Computational-Thinking/OlympULL), which was my Bachelor's Degree Final Project. Feel free to have a look at it!
