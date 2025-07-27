@@ -1,7 +1,7 @@
 # Hi! This is rrrguez's GitHub page :cherry_blossom:
 
-## I am a software engineer currently pursuing a master's degree in web development :mortar_board:
+## I am a software engineer currently pursuing a Master's degree in Web Development :mortar_board:
 
-In my profile you will find mostly practises for my different subjects
+Here you'll mostly find coursework and practice projects from different subjects, along with some personal projects I'm passionate about.
 
-My most standing out project is [OlypmULL](https://github.com/Computational-Thinking/OlympULL), which was my Bachelor's Degree Final Project. Feel free to have a look at it!
+My most notable project is [OlympULL](https://github.com/Computational-Thinking/OlympULL), which was my Bachelor's Final Project and received a 9.8/10 grade. Feel free to check it out!
