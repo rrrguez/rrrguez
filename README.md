@@ -1,6 +1,6 @@
 # Hi! This is rrrguez's GitHub page :cherry_blossom:
 
-## I am a software engineer currently pursuing a Master's degree in Web Development :mortar_board:
+## I'm a software engineer currently pursuing a Master's degree in Web Development :mortar_board:
 
 Here you'll mostly find coursework and practice projects from different subjects, along with some personal projects I'm passionate about.
 
